@@ -1,18 +1,6 @@
 # port_scanner
 
 A simple and versatile port scanner written in Python. This tool allows you to scan TCP and UDP ports on a target host, offering various scanning options such as scanning all ports, specific ranges, well-known ports, registered ports, private ports, or individual ports of your choice.
-Table of Contents
-
-    Features
-    Installation
-    Usage
-        Basic Commands
-        Examples
-    Protocols
-    Port Scanning Options
-    Contributing
-    License
-    Contact
 
 Features
 
