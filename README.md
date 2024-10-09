@@ -35,13 +35,11 @@ Ensure Python is Installed
 
 This script requires Python 3.6 or higher. You can check your Python version with:
 
-bash
 
 python3 --version
 
 (Optional) Create a Virtual Environment
 
-bash
 
     python3 -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
@@ -54,7 +52,6 @@ Usage
 
 Run the port_scanner.py script with the desired options.
 
-bash
 
 python3 port_scanner.py TARGET [OPTIONS]
 
