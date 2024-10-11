@@ -15,7 +15,7 @@ Installation
     Clone the Repository
 
 
-git clone https://github.com/yourusername/port_scanner.git
+git clone https://github.com/Erasmo-Dev/port_scanner.git
 cd port_scanner
 
 Ensure Python is Installed
