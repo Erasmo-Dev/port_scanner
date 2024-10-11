@@ -125,5 +125,5 @@ Scans ports from 1024 to 49151, assigned for specific services by IANA.
 Private Ports (-p, --private)
 
 Scans ports from 49152 to 65535, typically used for private or temporary purposes.
-Contributing
+
 
